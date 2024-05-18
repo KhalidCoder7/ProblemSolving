@@ -2,7 +2,7 @@ package EasyProblemSolutions.LongestCommonPrefix;
 
 import java.util.Arrays;
 
-public class LongestCommonPrefix {
+public class Solution {
     public static void main(String[] args) {
         String[] str = {"flower","flow","flight"};
         longestCommonPrefix(str);
